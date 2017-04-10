@@ -1,0 +1,55 @@
+.color-primary-0 { color: #FFC49E }	/* Main Primary color */
+.color-primary-1 { color: #FFE8D8 }
+.color-primary-2 { color: #FFDBC3 }
+.color-primary-3 { color: #EE9E6B }
+.color-primary-4 { color: #E28447 }
+
+.color-secondary-1-0 { color: #4A509D }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #8F92B7 }
+.color-secondary-1-2 { color: #6C70AC }
+.color-secondary-1-3 { color: #353C98 }
+.color-secondary-1-4 { color: #1E2691 }
+
+.color-secondary-2-0 { color: #7BA83D }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #B4CA97 }
+.color-secondary-2-2 { color: #98BA69 }
+.color-secondary-2-3 { color: #63971B }
+.color-secondary-2-4 { color: #4D8600 }
+
+.color-complement-0 { color: #309682 }	/* Main Complement color */
+.color-complement-1 { color: #7AB5AA }
+.color-complement-2 { color: #4A9F8E }
+.color-complement-3 { color: #17977E }
+.color-complement-4 { color: #018C70 }
+
+.navbar-brand{
+  color: #309682;
+}
+
+.navbar-brand:hover{
+  color: #309682;
+}
+
+.nav a{
+    color: #309682;
+}
+
+.nav a:hover{
+  color:#fff;
+}
+
+.nav>li>a:focus{
+  background-color: #309682;
+  color: #fff:
+}
+
+
+.nav-pills>li>a:hover{
+  background-color: #309682;
+}
+
+
+.nav>li>a:focus{
+color: #fff;
+
+}
