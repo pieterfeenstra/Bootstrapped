@@ -54,3 +54,20 @@
 .nav>li>a:focus{
 color: #fff;
 }
+
+/*header section*/
+
+.page-header{
+  margin-top: 10px;
+  color: #fff;
+  font-weight: lighter;
+  border-radius: 10px;
+  background-color: #7AB5AA;
+  text-align: center;
+  padding-top: 100px;
+  height: 300px;
+}
+
+.feature-box{
+  border: 1px solid #309682;
+}
