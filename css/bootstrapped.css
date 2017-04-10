@@ -26,6 +26,10 @@
   color: #309682;
 }
 
+.navbar-toggle .icon-bar{
+  background-color: #309682;
+}
+
 .navbar-brand:hover{
   color: #309682;
 }
@@ -43,13 +47,10 @@
   color: #fff:
 }
 
-
 .nav-pills>li>a:hover{
   background-color: #309682;
 }
 
-
 .nav>li>a:focus{
 color: #fff;
-
 }
